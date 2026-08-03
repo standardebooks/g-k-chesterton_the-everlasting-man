@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man</dc:identifier>
 		<dc:date>2024-05-04T19:58:36Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:description id="description">G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Everlasting Man&lt;/i&gt; is inspired by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells’&lt;/a&gt; &lt;i&gt;The Outline of History&lt;/i&gt;, which explains the history of mankind and religion as solely a product of natural selection and other material causes. In contrast, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt; presents the case for Christianity throughout history, by illustrating firstly, the uniqueness of man amongst the animals, and secondly, the uniqueness of Christ and the Church amongst other religions and philosophies.&lt;/p&gt;
 			&lt;p&gt;Written in Chesterton’s typical style, already familiar to readers of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy"&gt;Orthodoxy&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/heretics"&gt;Heretics&lt;/a&gt;&lt;/i&gt;, and ripe with humor and symbolism, &lt;i&gt;The Everlasting Man&lt;/i&gt; doesn’t aim to be a scholarly history treatise. Rather, like the title of Wells’ work, Chesterton merely presents us his outline of history. It is in this outline that his Christian, specifically Catholic, perspective contrasts with secular views common in modern times.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/65688</dc:source>
 		<dc:source>https://archive.org/details/everlastingman0000ches_n7k1</dc:source>
