@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Everlasting Man, The</meta>
 		<dc:subject id="subject-1">Religion</dc:subject>
 		<dc:subject id="subject-2">Christianity and other religions</dc:subject>
-		<dc:subject id="subject-3">Catholic Church -- Apologetic works</dc:subject>
+		<dc:subject id="subject-3">Catholic Church--Apologetic works</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85112549</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
